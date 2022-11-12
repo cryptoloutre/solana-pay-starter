@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sleeping otter",
+    "price": "0.1",
+    "description": "Get this sleeping otter pic for 0.1$",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmdLr7vbMQDT2qmiExZFWq58PK228yzNhQyex24pEq7pKP",
+    "filename": "sleeping_otter.jpg",
+    "hash": "QmdLr7vbMQDT2qmiExZFWq58PK228yzNhQyex24pEq7pKP"
+  },
+  {
+    "id": 2,
+    "name": "Otter has friend",
+    "price": "0.2",
+    "description": "These otters are friends and they love each other. Love them buying this pic for 0.2$",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmXmpdJ5xZ9JCLkacscg2gnVaeP53YUhPLjGoZU2cNHiwR",
+    "filename": "otter_and_friend.jpg",
+    "hash": "QmXmpdJ5xZ9JCLkacscg2gnVaeP53YUhPLjGoZU2cNHiwR"
+  },
+  {
+    "id": 3,
+    "name": "Otter first kiss",
+    "price": "1",
+    "description": "This otter kisses his lover for the first time. Get a memory of this moment for 1$",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmTmsy7ugfEsiinvbmsJcfKXRxiYdaNGaNB5W895QjsFaq",
+    "filename": "otter_first_kiss.jpg",
+    "hash": "QmTmsy7ugfEsiinvbmsJcfKXRxiYdaNGaNB5W895QjsFaq"
+  },
+  {
+    "id": 4,
+    "name": "White otter",
+    "price": "0.05",
+    "image_url": "https://i.pinimg.com/originals/18/df/b2/18dfb277c4e2878c8e0a0fabed416f0a.jpg",
+    "description": "A cute white otter looking you with love"
+  },
+  {
+    "id": 5,
+    "name": "White otter",
+    "price": "0.05",
+    "image_url": "https://i.pinimg.com/originals/18/df/b2/18dfb277c4e2878c8e0a0fabed416f0a.jpg",
+    "description": "A cute white otter"
+  },
+  {
+    "id": 6,
+    "name": "White otter",
+    "price": "0.05",
+    "image_url": "https://i.pinimg.com/originals/18/df/b2/18dfb277c4e2878c8e0a0fabed416f0a.jpg",
+    "description": "A cute white otter"
+  }
+]
